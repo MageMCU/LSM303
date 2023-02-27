@@ -1,0 +1,2 @@
+# LSM303D
+Pololu LSM303D 3D Compass (2127)
