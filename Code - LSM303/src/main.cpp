@@ -3,9 +3,9 @@
 // File: main.cpp
 //
 // Purpose: Public Github Account - MageMCU
-// Repository: HMC5883L 
-// Date Created: 20230225
-// Folder: Code-HMC5883L
+// Repository: LSM303 
+// Date Created: 20230229
+// Folder: Code-LSM303
 //
 // Author: Jesse Carpenter (carpentersoftware.com)
 // Email:carpenterhesse@gmail.com
